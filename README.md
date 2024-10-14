@@ -1,4 +1,4 @@
-# Que sabemos de los Adaptadores de Red de VirtualBox
+# Que son los Adaptadores de Red de VirtualBox
 
 En VirtualBox, los adaptadores de red permiten configurar cómo las máquinas virtuales se conectan a la red y se comunican con otros dispositivos. Existen barios tipos de Adaptadores:
 
